@@ -1,0 +1,134 @@
+[
+  {
+    "q": "What is the SI unit of force?",
+    "a1": "Joule",
+    "a2": "Newton",
+    "a3": "Watt",
+    "a4": "Pascal",
+    "ans": 2,
+    "exp": "Force is measured in Newtons (N). One Newton is the force needed to accelerate 1kg mass at 1m/s².",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which of the following is a vector quantity?",
+    "a1": "Mass",
+    "a2": "Speed",
+    "a3": "Velocity",
+    "a4": "Temperature",
+    "ans": 3,
+    "exp": "Velocity has both magnitude and direction, making it a vector quantity.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The speed of light in vacuum is approximately...",
+    "a1": "3 × 10⁶ m/s",
+    "a2": "3 × 10⁸ m/s",
+    "a3": "3 × 10¹⁰ m/s",
+    "a4": "3 × 10⁴ m/s",
+    "ans": 2,
+    "exp": "Light travels at approximately 3 × 10⁸ meters per second in vacuum.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which instrument is used to measure electric current?",
+    "a1": "Voltmeter",
+    "a2": "Ammeter",
+    "a3": "Galvanometer",
+    "a4": "Ohmmeter",
+    "ans": 2,
+    "exp": "An ammeter measures electric current in amperes.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The unit of electrical resistance is...",
+    "a1": "Volt",
+    "a2": "Ampere",
+    "a3": "Ohm",
+    "a4": "Watt",
+    "ans": 3,
+    "exp": "Resistance is measured in Ohms (Ω).",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Sound travels fastest in...",
+    "a1": "Air",
+    "a2": "Water",
+    "a3": "Steel",
+    "a4": "Vacuum",
+    "ans": 3,
+    "exp": "Sound travels fastest in solids because particles are closer together.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The SI unit of power is...",
+    "a1": "Joule",
+    "a2": "Watt",
+    "a3": "Newton",
+    "a4": "Pascal",
+    "ans": 2,
+    "exp": "Power is measured in Watts (W), equal to one Joule per second.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which law states that energy cannot be created or destroyed?",
+    "a1": "Newton's First Law",
+    "a2": "Law of Conservation of Energy",
+    "a3": "Ohm's Law",
+    "a4": "Hooke's Law",
+    "ans": 2,
+    "exp": "The Law of Conservation of Energy states that energy can only be transformed, not created or destroyed.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The acceleration due to gravity on Earth is approximately...",
+    "a1": "9.8 m/s²",
+    "a2": "8.9 m/s²",
+    "a3": "10.8 m/s²",
+    "a4": "7.8 m/s²",
+    "ans": 1,
+    "exp": "Gravity on Earth accelerates objects at approximately 9.8 m/s².",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which of the following is NOT a form of energy?",
+    "a1": "Kinetic",
+    "a2": "Potential",
+    "a3": "Friction",
+    "a4": "Thermal",
+    "ans": 3,
+    "exp": "Friction is a force, not a form of energy.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The unit of frequency is...",
+    "a1": "Hertz",
+    "a2": "Decibel",
+    "a3": "Newton",
+    "a4": "Joule",
+    "ans": 1,
+    "exp": "Frequency is measured in Hertz (Hz).",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which color of light has the shortest wavelength?",
+    "a1": "Red",
+    "a2": "Blue",
+    "a3": "Green",
+    "a4": "Violet",
+    "ans": 4,
+    "exp": "Violet has the shortest wavelength in the visible spectrum.",
+    "img": "",
+    "passage": ""
+  }
+    ]
