@@ -1,1 +1,134 @@
-
+[
+  {
+    "q": "The powerhouse of the cell is...",
+    "a1": "Nucleus",
+    "a2": "Ribosome",
+    "a3": "Mitochondria",
+    "a4": "Golgi body",
+    "ans": 3,
+    "exp": "Mitochondria generate ATP, the cell's energy currency.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which blood cells are responsible for fighting infections?",
+    "a1": "Red blood cells",
+    "a2": "White blood cells",
+    "a3": "Platelets",
+    "a4": "Plasma",
+    "ans": 2,
+    "exp": "White blood cells defend the body against pathogens.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The basic unit of life is...",
+    "a1": "Tissue",
+    "a2": "Organ",
+    "a3": "Cell",
+    "a4": "Organism",
+    "ans": 3,
+    "exp": "The cell is the smallest structural and functional unit of life.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Photosynthesis primarily occurs in which organelle?",
+    "a1": "Chloroplast",
+    "a2": "Mitochondria",
+    "a3": "Nucleus",
+    "a4": "Ribosome",
+    "ans": 1,
+    "exp": "Chloroplasts contain chlorophyll that captures light energy for photosynthesis.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "How many chromosomes are in a normal human body cell?",
+    "a1": "23",
+    "a2": "44",
+    "a3": "46",
+    "a4": "48",
+    "ans": 3,
+    "exp": "Humans have 46 chromosomes (23 pairs) in body cells.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which process produces genetically identical offspring?",
+    "a1": "Sexual reproduction",
+    "a2": "Asexual reproduction",
+    "a3": "Fertilization",
+    "a4": "Meiosis",
+    "ans": 2,
+    "exp": "Asexual reproduction creates clones — genetically identical offspring.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The largest organ in the human body is...",
+    "a1": "Liver",
+    "a2": "Brain",
+    "a3": "Skin",
+    "a4": "Lungs",
+    "ans": 3,
+    "exp": "The skin is the largest organ of the human body.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which vitamin is produced when skin is exposed to sunlight?",
+    "a1": "Vitamin A",
+    "a2": "Vitamin B12",
+    "a3": "Vitamin C",
+    "a4": "Vitamin D",
+    "ans": 4,
+    "exp": "Sunlight triggers vitamin D synthesis in the skin.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The process by which plants lose water through stomata is...",
+    "a1": "Transpiration",
+    "a2": "Respiration",
+    "a3": "Digestion",
+    "a4": "Excretion",
+    "ans": 1,
+    "exp": "Transpiration is the loss of water vapor through stomata.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which blood vessel carries blood AWAY from the heart?",
+    "a1": "Vein",
+    "a2": "Artery",
+    "a3": "Capillary",
+    "a4": "Venule",
+    "ans": 2,
+    "exp": "Arteries carry oxygenated blood away from the heart.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The sugar found in DNA is...",
+    "a1": "Glucose",
+    "a2": "Fructose",
+    "a3": "Ribose",
+    "a4": "Deoxyribose",
+    "ans": 4,
+    "exp": "DNA contains deoxyribose sugar.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which organism is a primary producer?",
+    "a1": "Lion",
+    "a2": "Grass",
+    "a3": "Fungi",
+    "a4": "Earthworm",
+    "ans": 2,
+    "exp": "Grass produces its own food via photosynthesis — a primary producer.",
+    "img": "",
+    "passage": ""
+  }
+]
