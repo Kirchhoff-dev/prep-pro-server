@@ -1,0 +1,134 @@
+[
+  {
+    "q": "What is the chemical symbol for Gold?",
+    "a1": "Go",
+    "a2": "Gd",
+    "a3": "Au",
+    "a4": "Ag",
+    "ans": 3,
+    "exp": "Gold's chemical symbol is Au, from the Latin word 'Aurum'.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The atomic number of Carbon is...",
+    "a1": "4",
+    "a2": "6",
+    "a3": "8",
+    "a4": "12",
+    "ans": 2,
+    "exp": "Carbon has 6 protons, so its atomic number is 6.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which gas is most abundant in the Earth's atmosphere?",
+    "a1": "Oxygen",
+    "a2": "Carbon Dioxide",
+    "a3": "Nitrogen",
+    "a4": "Hydrogen",
+    "ans": 3,
+    "exp": "Nitrogen makes up about 78% of Earth's atmosphere.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The pH of pure water at 25°C is...",
+    "a1": "0",
+    "a2": "5",
+    "a3": "7",
+    "a4": "14",
+    "ans": 3,
+    "exp": "Pure water is neutral with a pH of 7.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which of the following is a noble gas?",
+    "a1": "Oxygen",
+    "a2": "Nitrogen",
+    "a3": "Argon",
+    "a4": "Chlorine",
+    "ans": 3,
+    "exp": "Argon is a noble gas, found in Group 18 of the periodic table.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The chemical formula for water is...",
+    "a1": "CO₂",
+    "a2": "H₂O",
+    "a3": "O₂",
+    "a4": "NaCl",
+    "ans": 2,
+    "exp": "Water consists of two hydrogen atoms and one oxygen atom.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which element has the highest electronegativity?",
+    "a1": "Oxygen",
+    "a2": "Fluorine",
+    "a3": "Chlorine",
+    "a4": "Nitrogen",
+    "ans": 2,
+    "exp": "Fluorine has the highest electronegativity of all elements.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The process of converting liquid to gas is called...",
+    "a1": "Condensation",
+    "a2": "Evaporation",
+    "a3": "Sublimation",
+    "a4": "Freezing",
+    "ans": 2,
+    "exp": "Evaporation is the process where liquid changes to gas.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which bond type involves the sharing of electrons?",
+    "a1": "Ionic",
+    "a2": "Metallic",
+    "a3": "Covalent",
+    "a4": "Hydrogen",
+    "ans": 3,
+    "exp": "Covalent bonds form when atoms share electron pairs.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The molar mass of oxygen gas (O₂) is approximately...",
+    "a1": "16 g/mol",
+    "a2": "32 g/mol",
+    "a3": "8 g/mol",
+    "a4": "64 g/mol",
+    "ans": 2,
+    "exp": "O₂ has two oxygen atoms (16 × 2 = 32 g/mol).",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which indicator turns red in acidic solution?",
+    "a1": "Litmus",
+    "a2": "Phenolphthalein",
+    "a3": "Methyl orange",
+    "a4": "Universal indicator",
+    "ans": 3,
+    "exp": "Methyl orange turns red in acidic solutions.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The chemical symbol for Sodium is...",
+    "a1": "S",
+    "a2": "So",
+    "a3": "Na",
+    "a4": "K",
+    "ans": 3,
+    "exp": "Sodium's chemical symbol is Na, from the Latin 'Natrium'.",
+    "img": "",
+    "passage": ""
+  }
+    ]
