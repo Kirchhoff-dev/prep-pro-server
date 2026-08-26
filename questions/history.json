@@ -1,0 +1,68 @@
+[
+  {
+    "q": "Who was the first President of Nigeria?",
+    "a1": "Nnamdi Azikiwe",
+    "a2": "Obafemi Awolowo",
+    "a3": "Ahmadu Bello",
+    "a4": "Abubakar Tafawa Balewa",
+    "ans": 1,
+    "exp": "Nnamdi Azikiwe was the first President of Nigeria.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "In which year was the Nigerian civil war?",
+    "a1": "1967-1970",
+    "a2": "1965-1968",
+    "a3": "1968-1971",
+    "a4": "1970-1973",
+    "ans": 1,
+    "exp": "The Nigerian civil war was from 1967 to 1970.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Who was the first Prime Minister of Nigeria?",
+    "a1": "Nnamdi Azikiwe",
+    "a2": "Abubakar Tafawa Balewa",
+    "a3": "Obafemi Awolowo",
+    "a4": "Ahmadu Bello",
+    "ans": 2,
+    "exp": "Abubakar Tafawa Balewa was the first Prime Minister of Nigeria.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The amalgamation of Northern and Southern Nigeria occurred in...",
+    "a1": "1900",
+    "a2": "1914",
+    "a3": "1920",
+    "a4": "1930",
+    "ans": 2,
+    "exp": "The amalgamation of Nigeria was completed in 1914.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which country colonized Nigeria?",
+    "a1": "France",
+    "a2": "Portugal",
+    "a3": "Britain",
+    "a4": "Spain",
+    "ans": 3,
+    "exp": "Britain colonized Nigeria.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The capital of Nigeria before Abuja was...",
+    "a1": "Lagos",
+    "a2": "Ibadan",
+    "a3": "Kano",
+    "a4": "Enugu",
+    "ans": 1,
+    "exp": "Lagos was the capital of Nigeria before Abuja.",
+    "img": "",
+    "passage": ""
+  }
+]
