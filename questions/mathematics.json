@@ -1,0 +1,68 @@
+[
+  {
+    "q": "What is 7 × 8?",
+    "a1": "48",
+    "a2": "56",
+    "a3": "64",
+    "a4": "54",
+    "ans": 2,
+    "exp": "7 × 8 = 56.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "What is the square root of 144?",
+    "a1": "10",
+    "a2": "11",
+    "a3": "12",
+    "a4": "13",
+    "ans": 3,
+    "exp": "12 × 12 = 144, so √144 = 12.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "What is 15% of 200?",
+    "a1": "20",
+    "a2": "25",
+    "a3": "30",
+    "a4": "35",
+    "ans": 3,
+    "exp": "15/100 × 200 = 30.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "What is the value of 2³?",
+    "a1": "4",
+    "a2": "6",
+    "a3": "8",
+    "a4": "10",
+    "ans": 3,
+    "exp": "2³ = 2 × 2 × 2 = 8.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 5cm and width 3cm?",
+    "a1": "8cm",
+    "a2": "15cm",
+    "a3": "16cm",
+    "a4": "10cm",
+    "ans": 3,
+    "exp": "Perimeter = 2(length + width) = 2(5 + 3) = 2(8) = 16cm.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "What is the area of a triangle with base 6cm and height 4cm?",
+    "a1": "10cm²",
+    "a2": "12cm²",
+    "a3": "14cm²",
+    "a4": "24cm²",
+    "ans": 2,
+    "exp": "Area = ½ × base × height = ½ × 6 × 4 = 12cm².",
+    "img": "",
+    "passage": ""
+  }
+]
