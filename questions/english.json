@@ -1,0 +1,15 @@
+[
+  {
+    "q": "What is the synonym of 'Beautiful'?",
+    "a1": "Ugly",
+    "a2": "Pretty",
+    "a3": "Awful",
+    "a4": "Terrible",
+    "ans": 1,
+    "sub": "eng",
+    "year": "2025",
+    "exp": "'Pretty' is a synonym of 'Beautiful'.",
+    "img": "",
+    "passage": ""
+  }
+]
