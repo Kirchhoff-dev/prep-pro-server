@@ -1,0 +1,68 @@
+[
+  {
+    "q": "The author of 'Things Fall Apart' is...",
+    "a1": "Wole Soyinka",
+    "a2": "Chinua Achebe",
+    "a3": "Ngũgĩ wa Thiong'o",
+    "a4": "J.M. Coetzee",
+    "ans": 2,
+    "exp": "'Things Fall Apart' was written by Nigerian author Chinua Achebe.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "A poem of 14 lines with a specific rhyme scheme is called...",
+    "a1": "Sonnet",
+    "a2": "Haiku",
+    "a3": "Limerick",
+    "a4": "Epic",
+    "ans": 1,
+    "exp": "A sonnet is a 14-line poem with a specific rhyme scheme, typically written in iambic pentameter.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The character 'Okonkwo' is from which novel?",
+    "a1": "Arrow of God",
+    "a2": "Things Fall Apart",
+    "a3": "Anthills of the Savannah",
+    "a4": "A Man of the People",
+    "ans": 2,
+    "exp": "Okonkwo is the protagonist of Chinua Achebe's 'Things Fall Apart'.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "What is a metaphor?",
+    "a1": "A comparison using 'like' or 'as'",
+    "a2": "A direct comparison without using 'like' or 'as'",
+    "a3": "An exaggerated statement",
+    "a4": "Giving human qualities to non-human things",
+    "ans": 2,
+    "exp": "A metaphor makes a direct comparison between two unlike things without using 'like' or 'as'.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The famous line 'To be or not to be' is from which play?",
+    "a1": "Macbeth",
+    "a2": "Romeo and Juliet",
+    "a3": "Hamlet",
+    "a4": "Othello",
+    "ans": 3,
+    "exp": "'To be or not to be' is from Shakespeare's 'Hamlet'.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which literary device gives human characteristics to inanimate objects?",
+    "a1": "Simile",
+    "a2": "Metaphor",
+    "a3": "Personification",
+    "a4": "Hyperbole",
+    "ans": 3,
+    "exp": "Personification gives human traits to non-human things.",
+    "img": "",
+    "passage": ""
+  }
+]
