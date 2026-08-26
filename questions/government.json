@@ -1,0 +1,68 @@
+[
+  {
+    "q": "The system of government where the executive is separate from the legislature is called...",
+    "a1": "Parliamentary",
+    "a2": "Presidential",
+    "a3": "Monarchy",
+    "a4": "Dictatorship",
+    "ans": 2,
+    "exp": "In a presidential system, the executive and legislature are separate branches of government.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The head of state in a parliamentary system is usually...",
+    "a1": "President",
+    "a2": "Prime Minister",
+    "a3": "King",
+    "a4": "Emperor",
+    "ans": 2,
+    "exp": "In a parliamentary system, the Prime Minister is typically the head of government.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Nigeria gained independence from Britain in which year?",
+    "a1": "1950",
+    "a2": "1960",
+    "a3": "1970",
+    "a4": "1980",
+    "ans": 2,
+    "exp": "Nigeria gained independence on October 1, 1960.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "How many local government areas are there in Nigeria?",
+    "a1": "744",
+    "a2": "774",
+    "a3": "804",
+    "a4": "724",
+    "ans": 2,
+    "exp": "Nigeria has 774 local government areas.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The executive arm of government is responsible for...",
+    "a1": "Making laws",
+    "a2": "Interpreting laws",
+    "a3": "Implementing laws",
+    "a4": "Overseeing elections",
+    "ans": 3,
+    "exp": "The executive implements and enforces laws.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which of these is a feature of democracy?",
+    "a1": "One-party rule",
+    "a2": "Free and fair elections",
+    "a3": "Military rule",
+    "a4": "Censorship",
+    "ans": 2,
+    "exp": "Free and fair elections are a fundamental feature of democracy.",
+    "img": "",
+    "passage": ""
+  }
+]
