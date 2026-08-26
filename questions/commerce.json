@@ -1,0 +1,68 @@
+[
+  {
+    "q": "Which of these is a form of trade?",
+    "a1": "Retail",
+    "a2": "Wholesale",
+    "a3": "Both retail and wholesale",
+    "a4": "Neither",
+    "ans": 3,
+    "exp": "Both retail and wholesale are forms of trade.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The exchange of goods and services for money is called...",
+    "a1": "Barter",
+    "a2": "Trade",
+    "a3": "Gift",
+    "a4": "Donation",
+    "ans": 2,
+    "exp": "Trade is the exchange of goods and services for money.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which of these is a means of payment?",
+    "a1": "Cash",
+    "a2": "Cheque",
+    "a3": "Bank transfer",
+    "a4": "All of the above",
+    "ans": 4,
+    "exp": "Cash, cheques, and bank transfers are all means of payment.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The Naira is regulated by...",
+    "a1": "The Ministry of Finance",
+    "a2": "The Central Bank of Nigeria",
+    "a3": "The National Assembly",
+    "a4": "The Supreme Court",
+    "ans": 2,
+    "exp": "The Central Bank of Nigeria regulates the Naira.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which of these is a commercial bank?",
+    "a1": "First Bank",
+    "a2": "Central Bank",
+    "a3": "Development Bank",
+    "a4": "Nigerian Stock Exchange",
+    "ans": 1,
+    "exp": "First Bank is a commercial bank in Nigeria.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The money used in Nigeria is called...",
+    "a1": "Cedi",
+    "a2": "Naira",
+    "a3": "Shilling",
+    "a4": "Rand",
+    "ans": 2,
+    "exp": "The official currency of Nigeria is the Naira.",
+    "img": "",
+    "passage": ""
+  }
+]
