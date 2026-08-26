@@ -1,0 +1,68 @@
+[
+  {
+    "q": "The primary source of energy for photosynthesis is...",
+    "a1": "Water",
+    "a2": "Carbon dioxide",
+    "a3": "Sunlight",
+    "a4": "Nitrogen",
+    "ans": 3,
+    "exp": "Sunlight provides the energy needed for photosynthesis.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which of these is a cereal crop?",
+    "a1": "Cassava",
+    "a2": "Yam",
+    "a3": "Maize",
+    "a4": "Potato",
+    "ans": 3,
+    "exp": "Maize (corn) is a cereal crop, while cassava, yam, and potato are root or tuber crops.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The process of tilling the soil is called...",
+    "a1": "Planting",
+    "a2": "Harvesting",
+    "a3": "Ploughing",
+    "a4": "Weeding",
+    "ans": 3,
+    "exp": "Ploughing is the process of tilling or turning over the soil to prepare it for planting.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which of these is a leguminous crop?",
+    "a1": "Rice",
+    "a2": "Beans",
+    "a3": "Sugarcane",
+    "a4": "Cotton",
+    "ans": 2,
+    "exp": "Beans are leguminous crops that fix nitrogen in the soil.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The process of removing unwanted plants from a farm is called...",
+    "a1": "Harvesting",
+    "a2": "Planting",
+    "a3": "Weeding",
+    "a4": "Irrigation",
+    "ans": 3,
+    "exp": "Weeding is the process of removing unwanted plants (weeds) from a farm.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which of these is a major cash crop in Nigeria?",
+    "a1": "Cocoa",
+    "a2": "Maize",
+    "a3": "Rice",
+    "a4": "Beans",
+    "ans": 1,
+    "exp": "Cocoa is a major cash crop in Nigeria.",
+    "img": "",
+    "passage": ""
+  }
+]
