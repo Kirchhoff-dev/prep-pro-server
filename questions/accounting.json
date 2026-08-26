@@ -1,0 +1,68 @@
+[
+  {
+    "q": "The accounting equation is...",
+    "a1": "Assets = Liabilities + Capital",
+    "a2": "Assets = Liabilities - Capital",
+    "a3": "Assets + Liabilities = Capital",
+    "a4": "Assets = Capital - Liabilities",
+    "ans": 1,
+    "exp": "Assets = Liabilities + Owner's Equity (Capital) is the fundamental accounting equation.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which financial statement shows the financial position of a business at a specific date?",
+    "a1": "Income Statement",
+    "a2": "Balance Sheet",
+    "a3": "Cash Flow Statement",
+    "a4": "Trial Balance",
+    "ans": 2,
+    "exp": "A balance sheet shows the financial position of a business at a specific date.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Double-entry bookkeeping means...",
+    "a1": "Two people keep the books",
+    "a2": "Every transaction has two effects",
+    "a3": "Entries are written twice",
+    "a4": "Two sets of books are kept",
+    "ans": 2,
+    "exp": "Double-entry means every transaction has a debit and a credit effect.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "An asset is...",
+    "a1": "Something the business owes",
+    "a2": "Something the business owns",
+    "a3": "A business expense",
+    "a4": "The owner's share",
+    "ans": 2,
+    "exp": "An asset is something of value that a business owns or controls.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Depreciation refers to...",
+    "a1": "Increase in asset value",
+    "a2": "Decrease in asset value over time",
+    "a3": "The cost of goods sold",
+    "a4": "Total liabilities",
+    "ans": 2,
+    "exp": "Depreciation is the decrease in value of an asset over its useful life.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which of these is a liability?",
+    "a1": "Cash",
+    "a2": "Buildings",
+    "a3": "Loans",
+    "a4": "Inventory",
+    "ans": 3,
+    "exp": "Loans are liabilities — money that the business owes to others.",
+    "img": "",
+    "passage": ""
+  }
+]
