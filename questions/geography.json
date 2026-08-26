@@ -1,0 +1,68 @@
+[
+  {
+    "q": "The largest continent in the world is...",
+    "a1": "Africa",
+    "a2": "Europe",
+    "a3": "Asia",
+    "a4": "South America",
+    "ans": 3,
+    "exp": "Asia is the largest continent, covering about 44.58 million square kilometers.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The longest river in Africa is...",
+    "a1": "Niger River",
+    "a2": "Nile River",
+    "a3": "Congo River",
+    "a4": "Zambezi River",
+    "ans": 2,
+    "exp": "The Nile River is the longest river in Africa and the world.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which country has the largest population in the world?",
+    "a1": "India",
+    "a2": "China",
+    "a3": "United States",
+    "a4": "Indonesia",
+    "ans": 1,
+    "exp": "India is currently the most populous country in the world.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The capital of Nigeria is...",
+    "a1": "Lagos",
+    "a2": "Abuja",
+    "a3": "Kano",
+    "a4": "Port Harcourt",
+    "ans": 2,
+    "exp": "Abuja is the capital city of Nigeria.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The largest ocean on Earth is...",
+    "a1": "Atlantic Ocean",
+    "a2": "Indian Ocean",
+    "a3": "Pacific Ocean",
+    "a4": "Arctic Ocean",
+    "ans": 3,
+    "exp": "The Pacific Ocean is the largest ocean, covering approximately 63 million square miles.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which climate zone is Nigeria located in?",
+    "a1": "Temperate",
+    "a2": "Tropical",
+    "a3": "Polar",
+    "a4": "Desert",
+    "ans": 2,
+    "exp": "Nigeria is located in the tropical climate zone.",
+    "img": "",
+    "passage": ""
+  }
+]
