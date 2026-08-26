@@ -1,0 +1,68 @@
+[
+  {
+    "q": "Who led the Israelites out of Egypt?",
+    "a1": "Abraham",
+    "a2": "Moses",
+    "a3": "Joshua",
+    "a4": "David",
+    "ans": 2,
+    "exp": "Moses led the Israelites out of Egypt in the Exodus.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "How many books are in the Bible?",
+    "a1": "64",
+    "a2": "66",
+    "a3": "68",
+    "a4": "70",
+    "ans": 2,
+    "exp": "The Bible has 66 books — 39 in the Old Testament and 27 in the New Testament.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Who betrayed Jesus?",
+    "a1": "Peter",
+    "a2": "John",
+    "a3": "Judas Iscariot",
+    "a4": "Thomas",
+    "ans": 3,
+    "exp": "Judas Iscariot betrayed Jesus for thirty pieces of silver.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The first book of the Bible is...",
+    "a1": "Exodus",
+    "a2": "Genesis",
+    "a3": "Leviticus",
+    "a4": "Numbers",
+    "ans": 2,
+    "exp": "Genesis is the first book of the Bible.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Who was the mother of Jesus?",
+    "a1": "Elizabeth",
+    "a2": "Anna",
+    "a3": "Mary",
+    "a4": "Ruth",
+    "ans": 3,
+    "exp": "Mary was the mother of Jesus.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The Ten Commandments were given to Moses on...",
+    "a1": "Mount Sinai",
+    "a2": "Mount Olympus",
+    "a3": "Mount Kilimanjaro",
+    "a4": "Mount Everest",
+    "ans": 1,
+    "exp": "The Ten Commandments were given to Moses on Mount Sinai.",
+    "img": "",
+    "passage": ""
+  }
+]
