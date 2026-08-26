@@ -1,0 +1,68 @@
+[
+  {
+    "q": "The holy book of Islam is...",
+    "a1": "Torah",
+    "a2": "Bible",
+    "a3": "Quran",
+    "a4": "Vedas",
+    "ans": 3,
+    "exp": "The Quran is the holy book of Islam.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The founder of Islam is...",
+    "a1": "Abu Bakr",
+    "a2": "Prophet Muhammad (SAW)",
+    "a3": "Umar",
+    "a4": "Ali",
+    "ans": 2,
+    "exp": "Prophet Muhammad (SAW) is the founder of Islam.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "How many pillars of Islam are there?",
+    "a1": "3",
+    "a2": "4",
+    "a3": "5",
+    "a4": "6",
+    "ans": 3,
+    "exp": "There are 5 pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The city of Mecca is located in which country?",
+    "a1": "Egypt",
+    "a2": "Saudi Arabia",
+    "a3": "Turkey",
+    "a4": "Iran",
+    "ans": 2,
+    "exp": "Mecca is located in Saudi Arabia.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "The month of fasting in Islam is called...",
+    "a1": "Muharram",
+    "a2": "Rabi al-Awwal",
+    "a3": "Ramadan",
+    "a4": "Shawwal",
+    "ans": 3,
+    "exp": "Ramadan is the month of fasting in Islam.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Zakat is...",
+    "a1": "Daily prayer",
+    "a2": "Charity/giving",
+    "a3": "Pilgrimage",
+    "a4": "Fasting",
+    "ans": 2,
+    "exp": "Zakat is the giving of charity (obligatory alms) in Islam.",
+    "img": "",
+    "passage": ""
+  }
+]
