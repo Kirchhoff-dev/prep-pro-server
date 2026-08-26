@@ -1,0 +1,68 @@
+[
+  {
+    "q": "What is the basic economic problem?",
+    "a1": "Unlimited wants with limited resources",
+    "a2": "Limited wants with unlimited resources",
+    "a3": "Equal wants and resources",
+    "a4": "No wants or resources",
+    "ans": 1,
+    "exp": "The basic economic problem is scarcity — unlimited human wants with limited resources.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "What is the law of demand?",
+    "a1": "As price increases, quantity demanded increases",
+    "a2": "As price increases, quantity demanded decreases",
+    "a3": "Price and quantity are unrelated",
+    "a4": "As price decreases, quantity demanded decreases",
+    "ans": 2,
+    "exp": "The law of demand states that as price increases, quantity demanded decreases, all else being equal.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "What is the currency of Nigeria?",
+    "a1": "Naira",
+    "a2": "Cedi",
+    "a3": "Shilling",
+    "a4": "Rand",
+    "ans": 1,
+    "exp": "The Naira is the official currency of Nigeria.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Which of these is not a factor of production?",
+    "a1": "Land",
+    "a2": "Labour",
+    "a3": "Money",
+    "a4": "Capital",
+    "ans": 3,
+    "exp": "Money is not considered a factor of production; the factors are land, labour, capital, and entrepreneurship.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "What is GDP?",
+    "a1": "Gross Domestic Product",
+    "a2": "Grand Development Plan",
+    "a3": "Global Distribution Process",
+    "a4": "General Development Progress",
+    "ans": 1,
+    "exp": "GDP stands for Gross Domestic Product, the total value of goods and services produced in a country.",
+    "img": "",
+    "passage": ""
+  },
+  {
+    "q": "Inflation is...",
+    "a1": "A decrease in the general price level",
+    "a2": "An increase in the general price level",
+    "a3": "Stable prices over time",
+    "a4": "A decrease in the money supply",
+    "ans": 2,
+    "exp": "Inflation is a sustained increase in the general price level of goods and services.",
+    "img": "",
+    "passage": ""
+  }
+]
