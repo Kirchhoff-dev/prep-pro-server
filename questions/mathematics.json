@@ -7,7 +7,7 @@
     "a4": "5",
     "ans": 2,
     "exp": "x = 7 because 7 + 3 = 10.",
-    "ai_exp": "To solve x + 3 = 10, subtract 3 from both sides:\n• x + 3 - 3 = 10 - 3\n• x = 7\n\nVerify: 7 + 3 = 10 ✓\n\nOption A (3): 3 + 3 = 6 ≠ 10 ✗\nOption B (7): 7 + 3 = 10 ✓ Correct!\nOption C (13): 13 + 3 = 16 ≠ 10 ✗\nOption D (5): 5 + 3 = 8 ≠ 10 ✗\n\nThe correct answer is B) 7.",
+    "ai_exp": "Step-by-Step Solution:\n\nStep 1: Write the equation\n• x + 3 = 10\n\nStep 2: Isolate x by subtracting 3 from both sides\n• x + 3 - 3 = 10 - 3\n• x = 7\n\nStep 3: Verify the answer\n• Substitute x = 7: 7 + 3 = 10 ✓\n\nStep 4: Analyze why other options are wrong:\n• Option A (3): 3 + 3 = 6 ≠ 10 ✗\n• Option B (7): 7 + 3 = 10 ✓ Correct!\n• Option C (13): 13 + 3 = 16 ≠ 10 ✗\n• Option D (5): 5 + 3 = 8 ≠ 10 ✗\n\nThe correct answer is B) 7.",
     "img": "",
     "passage": ""
   },
@@ -19,7 +19,7 @@
     "a4": "108",
     "ans": 1,
     "exp": "2³ = 8 and 3² = 9, so 8 × 9 = 72.",
-    "ai_exp": "Step 1: Calculate 2³\n• 2³ = 2 × 2 × 2 = 8\n\nStep 2: Calculate 3²\n• 3² = 3 × 3 = 9\n\nStep 3: Multiply results\n• 8 × 9 = 72\n\nOption A (72): 8 × 9 = 72 ✓ Correct!\nOption B (54): 6 × 9 = 54, wrong calculation ✗\nOption C (36): 4 × 9 = 36, used 2² instead of 2³ ✗\nOption D (108): 12 × 9 = 108, used 2²×3 instead of 2³ ✗\n\nThe correct answer is A) 72.",
+    "ai_exp": "Step-by-Step Solution:\n\nStep 1: Calculate 2³\n• 2³ means 2 × 2 × 2\n• 2 × 2 = 4\n• 4 × 2 = 8\n• So 2³ = 8\n\nStep 2: Calculate 3²\n• 3² means 3 × 3\n• 3 × 3 = 9\n• So 3² = 9\n\nStep 3: Multiply the results\n• 2³ × 3² = 8 × 9\n• 8 × 9 = 72\n\nStep 4: Verify against options:\n• Option A (72): 8 × 9 = 72 ✓ Correct!\n• Option B (54): 6 × 9, used 2×3 instead of 2³ ✗\n• Option C (36): 4 × 9, used 2² instead of 2³ ✗\n• Option D (108): 12 × 9, incorrect ✗\n\nThe correct answer is A) 72.",
     "img": "",
     "passage": ""
   },
@@ -31,7 +31,7 @@
     "a4": "-3",
     "ans": 2,
     "exp": "In y = mx + c, the gradient is m. Here m = 3.",
-    "ai_exp": "The equation is in slope-intercept form: y = mx + c\n• Where m = gradient (slope)\n• c = y-intercept\n\nGiven: y = 3x - 5\n• m = 3 (coefficient of x)\n• c = -5 (constant term)\n\nOption A (-5): This is the y-intercept, not the gradient ✗\nOption B (3): This is the coefficient of x = gradient ✓ Correct!\nOption C (5): Absolute value of intercept, wrong sign ✗\nOption D (-3): Negative of gradient, wrong ✗\n\nThe correct answer is B) 3.",
+    "ai_exp": "Step-by-Step Solution:\n\nStep 1: Identify the form of the equation\n• y = 3x - 5 is in slope-intercept form: y = mx + c\n\nStep 2: Understand the components\n• m = gradient (slope of the line)\n• c = y-intercept (where line crosses y-axis)\n\nStep 3: Match the given equation to the form\n• y = 3x - 5\n• m = 3 (coefficient of x)\n• c = -5 (constant term)\n\nStep 4: Analyze options:\n• Option A (-5): This is the y-intercept, not gradient ✗\n• Option B (3): Coefficient of x = gradient ✓ Correct!\n• Option C (5): Absolute value of intercept ✗\n• Option D (-3): Negative of gradient ✗\n\nThe correct answer is B) 3.",
     "img": "",
     "passage": ""
   },
@@ -43,7 +43,7 @@
     "a4": "90°",
     "ans": 1,
     "exp": "sin 30° = 0.5, so θ = 30°.",
-    "ai_exp": "Recall standard trigonometric values:\n• sin 0° = 0\n• sin 30° = 0.5 ← This matches!\n• sin 45° = 0.707\n• sin 60° = 0.866\n• sin 90° = 1\n\nSince θ is acute (0° < θ < 90°) and sin θ = 0.5:\nθ = 30°\n\nOption A (30°): sin 30° = 0.5 ✓ Correct!\nOption B (45°): sin 45° = 0.707 ≠ 0.5 ✗\nOption C (60°): sin 60° = 0.866 ≠ 0.5 ✗\nOption D (90°): sin 90° = 1 ≠ 0.5 ✗\n\nThe correct answer is A) 30°.",
+    "ai_exp": "Step-by-Step Solution:\n\nStep 1: Recall standard sine values\n• sin 0° = 0\n• sin 30° = 0.5 ← This matches!\n• sin 45° = 0.7071\n• sin 60° = 0.8660\n• sin 90° = 1\n\nStep 2: Match the given value\n• sin θ = 0.5\n• From the table, θ = 30°\n\nStep 3: Verify θ is acute\n• Acute angle: 0° < θ < 90°\n• 30° is acute ✓\n\nStep 4: Analyze options:\n• Option A (30°): sin 30° = 0.5 ✓ Correct!\n• Option B (45°): sin 45° ≈ 0.707 ✗\n• Option C (60°): sin 60° ≈ 0.866 ✗\n• Option D (90°): sin 90° = 1 ✗\n\nThe correct answer is A) 30°.",
     "img": "",
     "passage": ""
   },
@@ -55,7 +55,7 @@
     "a4": "4",
     "ans": 2,
     "exp": "Mean = (2+4+6+8+10)/5 = 30/5 = 6.",
-    "ai_exp": "To find the mean (average):\n\nStep 1: Add all numbers\n• 2 + 4 + 6 + 8 + 10 = 30\n\nStep 2: Divide by the count of numbers\n• Count = 5 numbers\n• Mean = 30 ÷ 5 = 6\n\nOption A (5): Median value, not the mean ✗\nOption B (6): 30 ÷ 5 = 6 ✓ Correct!\nOption C (30): This is the sum, not the mean ✗\nOption D (4): Incorrect calculation ✗\n\nThe correct answer is B) 6.",
+    "ai_exp": "Step-by-Step Solution:\n\nStep 1: Recall the formula for mean\n• Mean = (Sum of all values) ÷ (Number of values)\n\nStep 2: Add all numbers\n• 2 + 4 + 6 + 8 + 10 = 30\n\nStep 3: Count the numbers\n• There are 5 numbers\n\nStep 4: Calculate the mean\n• Mean = 30 ÷ 5 = 6\n\nStep 5: Analyze options:\n• Option A (5): This is the median (middle value) ✗\n• Option B (6): 30 ÷ 5 = 6 ✓ Correct!\n• Option C (30): This is the sum, not the mean ✗\n• Option D (4): Incorrect ✗\n\nThe correct answer is B) 6.",
     "img": "",
     "passage": ""
   },
@@ -67,7 +67,7 @@
     "a4": "16",
     "ans": 3,
     "exp": "2⁴ = 16, so log₂ 16 = 4.",
-    "ai_exp": "log₂ 16 means: 2 raised to what power equals 16?\n\nStep 1: Write as an exponential equation\n• 2ˣ = 16\n\nStep 2: Express 16 as a power of 2\n• 16 = 2 × 2 × 2 × 2 = 2⁴\n\nStep 3: Since 2ˣ = 2⁴\n• x = 4\n\nOption A (2): 2² = 4 ≠ 16 ✗\nOption B (8): 2⁸ = 256 ≠ 16 ✗\nOption C (4): 2⁴ = 16 ✓ Correct!\nOption D (16): 2¹⁶ ≠ 16 ✗\n\nThe correct answer is C) 4.",
+    "ai_exp": "Step-by-Step Solution:\n\nStep 1: Understand the logarithm\n• log₂ 16 means: 2 raised to what power gives 16?\n\nStep 2: Convert to exponential form\n• 2ˣ = 16\n\nStep 3: Express 16 as a power of 2\n• 16 = 2 × 2 × 2 × 2\n• 16 = 2⁴\n\nStep 4: Since 2ˣ = 2⁴, the exponents must be equal\n• x = 4\n\nStep 5: Analyze options:\n• Option A (2): 2² = 4 ≠ 16 ✗\n• Option B (8): 2⁸ = 256 ≠ 16 ✗\n• Option C (4): 2⁴ = 16 ✓ Correct!\n• Option D (16): 2¹⁶ ≠ 16 ✗\n\nThe correct answer is C) 4.",
     "img": "",
     "passage": ""
   },
@@ -79,7 +79,7 @@
     "a4": "180°",
     "ans": 2,
     "exp": "Sum = (n-2) × 180° = (5-2) × 180° = 540°.",
-    "ai_exp": "Formula for sum of interior angles of a polygon:\n• Sum = (n - 2) × 180°\n• Where n = number of sides\n\nFor a pentagon:\n• n = 5\n• Sum = (5 - 2) × 180°\n• Sum = 3 × 180°\n• Sum = 540°\n\nOption A (360°): Sum for quadrilateral (4 sides) ✗\nOption B (540°): (5-2) × 180° = 540° ✓ Correct!\nOption C (720°): Sum for hexagon (6 sides) ✗\nOption D (180°): Sum for triangle (3 sides) ✗\n\nThe correct answer is B) 540°.",
+    "ai_exp": "Step-by-Step Solution:\n\nStep 1: Recall the formula\n• Sum of interior angles = (n - 2) × 180°\n• Where n = number of sides\n\nStep 2: Identify n for a pentagon\n• Pentagon has 5 sides\n• n = 5\n\nStep 3: Apply the formula\n• Sum = (5 - 2) × 180°\n• Sum = 3 × 180°\n• Sum = 540°\n\nStep 4: Analyze options:\n• Option A (360°): Sum for quadrilateral (n=4) ✗\n• Option B (540°): (5-2)×180° = 540° ✓ Correct!\n• Option C (720°): Sum for hexagon (n=6) ✗\n• Option D (180°): Sum for triangle (n=3) ✗\n\nThe correct answer is B) 540°.",
     "img": "",
     "passage": ""
   },
@@ -91,7 +91,7 @@
     "a4": "5x + 8",
     "ans": 2,
     "exp": "3x + 6 - 2x + 2 = x + 8.",
-    "ai_exp": "Step 1: Distribute 3\n• 3(x + 2) = 3x + 6\n\nStep 2: Distribute -2\n• -2(x - 1) = -2x + 2 (negative × negative = positive)\n\nStep 3: Combine like terms\n• (3x - 2x) + (6 + 2)\n• x + 8\n\nOption A (x + 4): Forgot to add 6 + 2 correctly ✗\nOption B (x + 8): 3x - 2x + 6 + 2 = x + 8 ✓ Correct!\nOption C (5x + 4): Added coefficients incorrectly ✗\nOption D (5x + 8): 3x + 2x instead of 3x - 2x ✗\n\nThe correct answer is B) x + 8.",
+    "ai_exp": "Step-by-Step Solution:\n\nStep 1: Distribute 3\n• 3(x + 2) = 3x + 6\n\nStep 2: Distribute -2\n• -2(x - 1) = -2x + 2\n• (Remember: -2 × -1 = +2)\n\nStep 3: Combine like terms\n• x terms: 3x - 2x = x\n• Constants: 6 + 2 = 8\n• Result: x + 8\n\nStep 4: Analyze options:\n• Option A (x + 4): Added constants incorrectly ✗\n• Option B (x + 8): 3x - 2x + 6 + 2 = x + 8 ✓ Correct!\n• Option C (5x + 4): Added x coefficients ✗\n• Option D (5x + 8): 3x + 2x instead of 3x - 2x ✗\n\nThe correct answer is B) x + 8.",
     "img": "",
     "passage": ""
   },
@@ -103,19 +103,19 @@
     "a4": "1/3",
     "ans": 1,
     "exp": "Total balls = 9. P(red) = 4/9.",
-    "ai_exp": "Probability formula:\n• P(event) = Number of favorable outcomes / Total outcomes\n\nStep 1: Count total balls\n• Red: 4\n• Blue: 3\n• Green: 2\n• Total = 4 + 3 + 2 = 9 balls\n\nStep 2: Count favorable outcomes (red balls)\n• Red balls = 4\n\nStep 3: Calculate probability\n• P(red) = 4/9\n\nOption A (4/9): 4 red out of 9 total ✓ Correct!\nOption B (3/9): Probability of blue ball ✗\nOption C (2/9): Probability of green ball ✗\nOption D (1/3): Simplified incorrectly (3/9) ✗\n\nThe correct answer is A) 4/9.",
+    "ai_exp": "Step-by-Step Solution:\n\nStep 1: Recall probability formula\n• P(event) = Favorable outcomes ÷ Total outcomes\n\nStep 2: Count total balls\n• Red: 4\n• Blue: 3\n• Green: 2\n• Total = 4 + 3 + 2 = 9 balls\n\nStep 3: Count favorable outcomes\n• Red balls = 4\n\nStep 4: Calculate probability\n• P(red) = 4/9\n\nStep 5: Analyze options:\n• Option A (4/9): 4 red ÷ 9 total ✓ Correct!\n• Option B (3/9): Probability of blue ✗\n• Option C (2/9): Probability of green ✗\n• Option D (1/3): 3/9 simplified, wrong color ✗\n\nThe correct answer is A) 4/9.",
     "img": "",
     "passage": ""
   },
   {
-    "q": "The nth term of an arithmetic sequence is given by 3n - 2. What is the 7th term?",
+    "q": "The nth term of an arithmetic sequence is 3n - 2. What is the 7th term?",
     "a1": "17",
     "a2": "19",
     "a3": "21",
     "a4": "23",
     "ans": 2,
     "exp": "Substitute n = 7: 3(7) - 2 = 21 - 2 = 19.",
-    "ai_exp": "To find the nth term, substitute n = 7 into the formula:\n\nStep 1: Write the formula\n• Tₙ = 3n - 2\n\nStep 2: Substitute n = 7\n• T₇ = 3(7) - 2\n\nStep 3: Calculate\n• T₇ = 21 - 2\n• T₇ = 19\n\nOption A (17): 3(7) - 4, used -4 instead of -2 ✗\nOption B (19): 3(7) - 2 = 21 - 2 = 19 ✓ Correct!\nOption C (21): Only calculated 3(7), forgot to subtract 2 ✗\nOption D (23): 3(7) + 2, used +2 instead of -2 ✗\n\nThe correct answer is B) 19.",
+    "ai_exp": "Step-by-Step Solution:\n\nStep 1: Identify the formula\n• Tₙ = 3n - 2\n\nStep 2: Substitute n = 7\n• T₇ = 3(7) - 2\n\nStep 3: Calculate\n• T₇ = 21 - 2\n• T₇ = 19\n\nStep 4: Verify by checking first few terms\n• T₁ = 3(1) - 2 = 1\n• T₂ = 3(2) - 2 = 4\n• T₃ = 3(3) - 2 = 7\n• Common difference = 3 ✓\n\nStep 5: Analyze options:\n• Option A (17): 3(7) - 4, wrong constant ✗\n• Option B (19): 3(7) - 2 = 19 ✓ Correct!\n• Option C (21): Forgot to subtract 2 ✗\n• Option D (23): 3(7) + 2 ✗\n\nThe correct answer is B) 19.",
     "img": "",
     "passage": ""
   }
