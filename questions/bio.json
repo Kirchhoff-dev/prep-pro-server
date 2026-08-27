@@ -7,7 +7,7 @@
     "a4": "Golgi apparatus",
     "ans": 3,
     "exp": "Mitochondria produces ATP through cellular respiration.",
-    "ai_exp": "Cell Organelle Analysis:\n\n• Nucleus: Control center, contains DNA ✗\n• Ribosome: Protein synthesis ✗\n• Mitochondria: ATP production (energy) ✓\n• Golgi apparatus: Protein packaging ✗\n\nMitochondria = Powerhouse\n• Site of cellular respiration\n• Produces ATP (energy currency)\n\nOption A: Controls cell activities ✗\nOption B: Makes proteins ✗\nOption C: Produces energy ✓ Correct!\nOption D: Packages proteins ✗\n\nThe correct answer is C) Mitochondria.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall cell organelles and their functions\n• Nucleus: Contains DNA, controls cell activities\n• Ribosome: Site of protein synthesis\n• Mitochondria: Site of ATP production (cellular respiration)\n• Golgi apparatus: Packages and transports proteins\n\nStep 2: Identify the 'powerhouse'\n• Mitochondria produces energy (ATP) through cellular respiration\n• This is why it's called the POWERHOUSE\n\nStep 3: Analyze options\n• Option A (Nucleus): Control center, not energy production ✗\n• Option B (Ribosome): Makes proteins, not energy ✗\n• Option C (Mitochondria): Produces ATP = powerhouse ✓ Correct!\n• Option D (Golgi): Packages proteins ✗\n\nThe correct answer is C) Mitochondria.",
     "img": "",
     "passage": ""
   },
@@ -18,8 +18,8 @@
     "a3": "Transpiration",
     "a4": "Digestion",
     "ans": 2,
-    "exp": "Photosynthesis is the process by which plants make their own food using sunlight.",
-    "ai_exp": "Plant Process Analysis:\n\n• Respiration: Breaking down food for energy ✗\n• Photosynthesis: Making food using sunlight ✓\n• Transpiration: Water loss from leaves ✗\n• Digestion: Breaking down food (animals) ✗\n\nPhotosynthesis equation:\n6CO₂ + 6H₂O + sunlight → C₆H₁₂O₆ + 6O₂\n\nOption A: Energy release ✗\nOption B: Food production ✓ Correct!\nOption C: Water loss ✗\nOption D: Food breakdown ✗\n\nThe correct answer is B) Photosynthesis.",
+    "exp": "Photosynthesis is how plants make food using sunlight.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Define each process\n• Respiration: Breaking down glucose to release energy\n• Photosynthesis: Making glucose using sunlight, CO₂, and water\n• Transpiration: Loss of water vapor from leaves\n• Digestion: Breaking down food (animals only)\n\nStep 2: Recall photosynthesis equation\n• 6CO₂ + 6H₂O + sunlight → C₆H₁₂O₆ + 6O₂\n• Carbon dioxide + Water + Light → Glucose + Oxygen\n\nStep 3: Analyze options\n• Option A (Respiration): Energy release, not food making ✗\n• Option B (Photosynthesis): Food manufacturing ✓ Correct!\n• Option C (Transpiration): Water loss ✗\n• Option D (Digestion): Animal process ✗\n\nThe correct answer is B) Photosynthesis.",
     "img": "",
     "passage": ""
   },
@@ -30,8 +30,8 @@
     "a3": "Group AB",
     "a4": "Group O",
     "ans": 4,
-    "exp": "Group O negative blood can be given to any blood type.",
-    "ai_exp": "Blood Group Analysis:\n\n• Group A: Can donate to A and AB ✗\n• Group B: Can donate to B and AB ✗\n• Group AB: Universal RECIPIENT ✗\n• Group O: Universal DONOR ✓\n\nGroup O negative:\n• No A or B antigens on red cells\n• Can be given to any blood type\n\nOption A: Limited donation ✗\nOption B: Limited donation ✗\nOption C: Universal recipient ✗\nOption D: Universal donor ✓ Correct!\n\nThe correct answer is D) Group O.",
+    "exp": "Group O negative can be given to any blood type.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall blood group compatibility\n• Group A: Can donate to A and AB\n• Group B: Can donate to B and AB\n• Group AB: Universal RECIPIENT (can receive from all)\n• Group O: Universal DONOR (can donate to all)\n\nStep 2: Understand why O is universal donor\n• Group O has no A or B antigens on red blood cells\n• No antigens = no immune reaction in recipients\n\nStep 3: Analyze options\n• Option A: Limited donor ✗\n• Option B: Limited donor ✗\n• Option C: Universal recipient ✗\n• Option D: Universal donor ✓ Correct!\n\nThe correct answer is D) Group O.",
     "img": "",
     "passage": ""
   },
@@ -42,8 +42,8 @@
     "a3": "Gene",
     "a4": "Chromosome",
     "ans": 3,
-    "exp": "Genes are the basic units of heredity and inheritance.",
-    "ai_exp": "Genetic Terminology:\n\n• Cell: Basic unit of life ✗\n• Nucleus: Contains genetic material ✗\n• Gene: Unit of inheritance ✓\n• Chromosome: Structure containing genes ✗\n\nHierarchy:\nCell → Nucleus → Chromosome → GENE (unit of inheritance)\n\nOption A: Structural unit ✗\nOption B: Contains DNA ✗\nOption C: Unit of inheritance ✓ Correct!\nOption D: Carries genes ✗\n\nThe correct answer is C) Gene.",
+    "exp": "Genes are the basic units of heredity.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Define each term\n• Cell: Basic structural unit of life\n• Nucleus: Contains genetic material\n• Gene: Segment of DNA that codes for a trait\n• Chromosome: Structure containing many genes\n\nStep 2: Understand the hierarchy\n• Cell → Nucleus → Chromosome → GENE (unit of inheritance)\n\nStep 3: Identify the unit of inheritance\n• Genes determine traits passed from parents to offspring\n\nStep 4: Analyze options\n• Option A (Cell): Structural unit ✗\n• Option B (Nucleus): Contains DNA ✗\n• Option C (Gene): Unit of inheritance ✓ Correct!\n• Option D (Chromosome): Carries genes ✗\n\nThe correct answer is C) Gene.",
     "img": "",
     "passage": ""
   },
@@ -55,7 +55,7 @@
     "a4": "Glycogen storage",
     "ans": 3,
     "exp": "Insulin is produced by the pancreas, not the liver.",
-    "ai_exp": "Liver Functions:\n• Bile production ✓\n• Detoxification ✓\n• Glycogen storage ✓\n• Protein synthesis ✓\n\nPancreas Functions:\n• Insulin production ✓\n• Glucagon production ✓\n\nOption A: Liver function ✗\nOption B: Liver function ✗\nOption C: PANCREAS function ✓ Correct!\nOption D: Liver function ✗\n\nThe correct answer is C) Insulin production.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: List liver functions\n• Bile production ✓\n• Detoxification of harmful substances ✓\n• Glycogen storage ✓\n• Protein synthesis ✓\n• Breakdown of old red blood cells ✓\n\nStep 2: Identify pancreas functions\n• Insulin production ✓\n• Glucagon production ✓\n• Digestive enzyme production ✓\n\nStep 3: Analyze options\n• Option A (Bile): Liver function ✗ (This IS a liver function)\n• Option B (Detoxification): Liver function ✗\n• Option C (Insulin): PANCREAS function ✓ Correct!\n• Option D (Glycogen): Liver function ✗\n\nThe correct answer is C) Insulin production.",
     "img": "",
     "passage": ""
   },
@@ -66,8 +66,8 @@
     "a3": "Transpiration",
     "a4": "Active transport",
     "ans": 2,
-    "exp": "Osmosis is the movement of water from high to low concentration through a semi-permeable membrane.",
-    "ai_exp": "Water Movement Analysis:\n\n• Diffusion: Movement of molecules from high to low concentration ✗\n• Osmosis: Movement of WATER through semi-permeable membrane ✓\n• Transpiration: Water LOSS from leaves ✗\n• Active transport: Against concentration gradient (needs energy) ✗\n\nWater from soil → root hairs → xylem = OSMOSIS\n\nOption A: General molecule movement ✗\nOption B: Water-specific movement ✓ Correct!\nOption C: Evaporation from leaves ✗\nOption D: Energy-requiring process ✗\n\nThe correct answer is B) Osmosis.",
+    "exp": "Osmosis is water movement through a semi-permeable membrane.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Define each process\n• Diffusion: Movement of molecules from high to low concentration\n• Osmosis: Movement of WATER through semi-permeable membrane\n• Transpiration: Water LOSS from leaf surfaces\n• Active transport: Movement against concentration gradient (needs energy)\n\nStep 2: Identify the specific process\n• Water from soil → root hairs → xylem\n• This is water movement through cell membranes = OSMOSIS\n\nStep 3: Analyze options\n• Option A (Diffusion): General molecules, not specific to water ✗\n• Option B (Osmosis): Water movement ✓ Correct!\n• Option C (Transpiration): Water loss from leaves ✗\n• Option D (Active transport): Needs energy ✗\n\nThe correct answer is B) Osmosis.",
     "img": "",
     "passage": ""
   },
@@ -78,8 +78,8 @@
     "a3": "Vitamin D",
     "a4": "Vitamin K",
     "ans": 3,
-    "exp": "Vitamin D is synthesized in the skin upon exposure to UV light from sunlight.",
-    "ai_exp": "Vitamin Production Analysis:\n\n• Vitamin A: Found in carrots, liver ✗\n• Vitamin C: Found in citrus fruits ✗\n• Vitamin D: SYNTHESIZED by skin in sunlight ✓\n• Vitamin K: Produced by gut bacteria ✗\n\nVitamin D:\n• Produced in skin\n• Requires UV exposure\n• Important for calcium absorption\n\nOption A: Dietary ✗\nOption B: Dietary ✗\nOption C: Sunlight synthesis ✓ Correct!\nOption D: Bacterial synthesis ✗\n\nThe correct answer is C) Vitamin D.",
+    "exp": "Vitamin D is synthesized in skin upon UV exposure.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall vitamin sources\n• Vitamin A: Carrots, liver, dairy\n• Vitamin C: Citrus fruits, vegetables\n• Vitamin D: SKIN (via sunlight), fish, eggs\n• Vitamin K: Gut bacteria, leafy greens\n\nStep 2: Identify sunlight-produced vitamin\n• UV rays trigger Vitamin D synthesis in skin\n• Called the 'sunshine vitamin'\n\nStep 3: Analyze options\n• Option A: Dietary only ✗\n• Option B: Dietary only ✗\n• Option C: Sunlight synthesis ✓ Correct!\n• Option D: Bacterial synthesis ✗\n\nThe correct answer is C) Vitamin D.",
     "img": "",
     "passage": ""
   },
@@ -91,7 +91,7 @@
     "a4": "48",
     "ans": 3,
     "exp": "Humans have 46 chromosomes (23 pairs) in body cells.",
-    "ai_exp": "Chromosome Analysis:\n\n• 23 = Number of pairs (or chromosomes in gametes) ✗\n• 44 = Autosomes (non-sex chromosomes) ✗\n• 46 = Total chromosomes in somatic cells ✓\n• 48 = Incorrect ✗\n\nHuman cells:\n• 46 chromosomes total\n• 23 pairs (22 autosomes + 1 sex pair)\n• Gametes (sperm/egg) have 23 chromosomes\n\nOption A: Gamete number ✗\nOption B: Autosome count ✗\nOption C: Body cell number ✓ Correct!\nOption D: Incorrect ✗\n\nThe correct answer is C) 46.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall human chromosome numbers\n• Body cells (somatic): 46 chromosomes (23 pairs)\n• Gametes (sperm/egg): 23 chromosomes (haploid)\n• Autosomes: 44 (22 pairs)\n• Sex chromosomes: 2 (XX or XY)\n\nStep 2: Identify what's asked\n• Normal BODY cell = 46 chromosomes\n\nStep 3: Analyze options\n• Option A (23): Gamete number ✗\n• Option B (44): Autosome count only ✗\n• Option C (46): Body cell total ✓ Correct!\n• Option D (48): Incorrect (chimpanzee has 48) ✗\n\nThe correct answer is C) 46.",
     "img": "",
     "passage": ""
   },
@@ -102,8 +102,8 @@
     "a3": "Medulla oblongata",
     "a4": "Hypothalamus",
     "ans": 2,
-    "exp": "The cerebellum controls balance, posture, and coordination.",
-    "ai_exp": "Brain Structure Analysis:\n\n• Cerebrum: Thinking, memory, voluntary movement ✗\n• Cerebellum: BALANCE and COORDINATION ✓\n• Medulla oblongata: Heart rate, breathing ✗\n• Hypothalamus: Temperature, hunger, thirst ✗\n\nCerebellum:\n• Located at back of brain\n• Controls fine motor skills\n• Maintains posture\n\nOption A: Higher functions ✗\nOption B: Balance/coordination ✓ Correct!\nOption C: Autonomic functions ✗\nOption D: Homeostasis ✗\n\nThe correct answer is B) Cerebellum.",
+    "exp": "The cerebellum controls balance and coordination.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall brain parts and functions\n• Cerebrum: Thinking, memory, voluntary movement, senses\n• Cerebellum: BALANCE, posture, coordination\n• Medulla oblongata: Heart rate, breathing, blood pressure\n• Hypothalamus: Temperature, hunger, thirst, sleep\n\nStep 2: Match the function\n• Balance + Coordination = Cerebellum\n\nStep 3: Analyze options\n• Option A: Higher brain functions ✗\n• Option B: Balance/coordination ✓ Correct!\n• Option C: Autonomic functions ✗\n• Option D: Homeostasis ✗\n\nThe correct answer is B) Cerebellum.",
     "img": "",
     "passage": ""
   },
@@ -114,8 +114,8 @@
     "a3": "Binary fission",
     "a4": "Budding",
     "ans": 2,
-    "exp": "Meiosis produces gametes (sperm and eggs) with half the chromosome number.",
-    "ai_exp": "Cell Division Analysis:\n\n• Mitosis: Produces identical diploid cells for growth ✗\n• Meiosis: Produces haploid gametes ✓\n• Binary fission: Asexual reproduction in bacteria ✗\n• Budding: Asexual reproduction in yeast ✗\n\nMeiosis:\n• Reduces chromosome number by half\n• Produces 4 haploid cells\n• Creates genetic variation\n\nOption A: Growth/repair ✗\nOption B: Gamete production ✓ Correct!\nOption C: Bacterial reproduction ✗\nOption D: Asexual reproduction ✗\n\nThe correct answer is B) Meiosis.",
+    "exp": "Meiosis produces gametes with half the chromosome number.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Define cell division types\n• Mitosis: Produces 2 identical diploid cells (growth/repair)\n• Meiosis: Produces 4 haploid cells (gametes)\n• Binary fission: Asexual reproduction in bacteria\n• Budding: Asexual reproduction in yeast\n\nStep 2: Recall meiosis characteristics\n• Reduces chromosome number by HALF\n• Produces sperm and egg cells\n• Creates genetic variation\n\nStep 3: Analyze options\n• Option A (Mitosis): Growth/repair ✗\n• Option B (Meiosis): Gamete production ✓ Correct!\n• Option C (Binary fission): Bacterial ✗\n• Option D (Budding): Yeast ✗\n\nThe correct answer is B) Meiosis.",
     "img": "",
     "passage": ""
   }
