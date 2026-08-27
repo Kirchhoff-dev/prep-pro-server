@@ -6,8 +6,8 @@
     "a3": "Au",
     "a4": "Ag",
     "ans": 3,
-    "exp": "Gold's chemical symbol is Au, from the Latin word 'Aurum'.",
-    "ai_exp": "Chemical Symbol Analysis:\n\n• Go = Not a valid symbol ✗\n• Gd = Gadolinium ✗\n• Au = Gold (from Latin 'Aurum') ✓\n• Ag = Silver (from Latin 'Argentum') ✗\n\nGold's symbol comes from its Latin name:\nAurum → Au\n\nOption A: Invalid symbol ✗\nOption B: Different element (Gadolinium) ✗\nOption C: Gold ✓ Correct!\nOption D: Different element (Silver) ✗\n\nThe correct answer is C) Au.",
+    "exp": "Gold's chemical symbol is Au, from the Latin 'Aurum'.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall common chemical symbols\n• Gold = Au\n• Silver = Ag\n• Sodium = Na\n• Potassium = K\n\nStep 2: Understand the origin\n• Gold's symbol comes from Latin 'Aurum'\n• Silver's symbol comes from Latin 'Argentum'\n\nStep 3: Analyze options\n• Option A (Go): Not a valid chemical symbol ✗\n• Option B (Gd): Gadolinium, a different element ✗\n• Option C (Au): Gold (from Aurum) ✓ Correct!\n• Option D (Ag): Silver (from Argentum) ✗\n\nThe correct answer is C) Au.",
     "img": "",
     "passage": ""
   },
@@ -18,8 +18,8 @@
     "a3": "Electrons",
     "a4": "Nucleons",
     "ans": 2,
-    "exp": "Atomic number = number of protons in the nucleus.",
-    "ai_exp": "Atomic Structure Analysis:\n\n• Atomic number (Z) = Number of PROTONS\n• Mass number (A) = Protons + Neutrons\n• Electrons = Protons (in neutral atom)\n\nOption A (Neutrons): Determines isotopes ✗\nOption B (Protons): Determines atomic number ✓ Correct!\nOption C (Electrons): Equals protons in neutral atoms ✗\nOption D (Nucleons): Total protons + neutrons = mass number ✗\n\nThe correct answer is B) Protons.",
+    "exp": "Atomic number equals the number of protons.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Define atomic number (Z)\n• Atomic number = Number of PROTONS in nucleus\n\nStep 2: Distinguish related terms\n• Mass number (A) = Protons + Neutrons\n• Electrons = Protons (in neutral atom)\n• Nucleons = Protons + Neutrons\n\nStep 3: Analyze options\n• Option A (Neutrons): Determines isotopes, not atomic number ✗\n• Option B (Protons): Defines the element, = atomic number ✓ Correct!\n• Option C (Electrons): Equals protons in neutral atoms ✗\n• Option D (Nucleons): Total particles = mass number ✗\n\nThe correct answer is B) Protons.",
     "img": "",
     "passage": ""
   },
@@ -30,8 +30,8 @@
     "a3": "Nitrogen",
     "a4": "Hydrogen",
     "ans": 3,
-    "exp": "Nitrogen makes up about 78% of Earth's atmosphere.",
-    "ai_exp": "Atmospheric Composition:\n\n• Nitrogen (N₂) = 78% ← Most abundant\n• Oxygen (O₂) = 21%\n• Carbon Dioxide (CO₂) = 0.04%\n• Others (Argon, etc.) = 1%\n\nOption A (Oxygen): 21%, second most ✗\nOption B (CO₂): Only 0.04% ✗\nOption C (Nitrogen): 78%, most abundant ✓ Correct!\nOption D (Hydrogen): Trace amounts ✗\n\nThe correct answer is C) Nitrogen.",
+    "exp": "Nitrogen makes up about 78% of the atmosphere.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall atmospheric composition\n• Nitrogen (N₂): 78.08% ← MOST ABUNDANT\n• Oxygen (O₂): 20.95%\n• Argon (Ar): 0.93%\n• Carbon Dioxide (CO₂): 0.04%\n• Others: Trace amounts\n\nStep 2: Analyze options\n• Option A (Oxygen): Second most (21%) ✗\n• Option B (CO₂): Only 0.04% ✗\n• Option C (Nitrogen): 78%, most abundant ✓ Correct!\n• Option D (Hydrogen): Trace amounts only ✗\n\nThe correct answer is C) Nitrogen.",
     "img": "",
     "passage": ""
   },
@@ -42,8 +42,8 @@
     "a3": "7",
     "a4": "14",
     "ans": 3,
-    "exp": "Pure water is neutral with a pH of 7.",
-    "ai_exp": "pH Scale Analysis:\n\n• pH 0-6: Acidic\n• pH 7: Neutral\n• pH 8-14: Basic/Alkaline\n\nPure water at 25°C:\n• [H⁺] = [OH⁻]\n• Perfectly neutral\n• pH = 7\n\nOption A (0): Strongly acidic ✗\nOption B (5): Acidic ✗\nOption C (7): Neutral ✓ Correct!\nOption D (14): Strongly basic ✗\n\nThe correct answer is C) 7.",
+    "exp": "Pure water is neutral with pH 7.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall the pH scale\n• 0-6: Acidic\n• 7: Neutral\n• 8-14: Basic/Alkaline\n\nStep 2: Understand pure water\n• At 25°C, [H⁺] = [OH⁻] = 10⁻⁷ mol/dm³\n• pH = -log[H⁺] = -log(10⁻⁷) = 7\n\nStep 3: Analyze options\n• Option A (0): Strongly acidic ✗\n• Option B (5): Acidic ✗\n• Option C (7): Neutral ✓ Correct!\n• Option D (14): Strongly basic ✗\n\nThe correct answer is C) 7.",
     "img": "",
     "passage": ""
   },
@@ -54,8 +54,8 @@
     "a3": "Argon",
     "a4": "Chlorine",
     "ans": 3,
-    "exp": "Argon is a noble gas in Group 18 of the periodic table.",
-    "ai_exp": "Noble Gases (Group 18):\n• Helium (He)\n• Neon (Ne)\n• Argon (Ar) ← This one!\n• Krypton (Kr)\n• Xenon (Xe)\n• Radon (Rn)\n\nNoble gases are unreactive due to full outer electron shells.\n\nOption A (Oxygen): Group 16 ✗\nOption B (Nitrogen): Group 15 ✗\nOption C (Argon): Group 18 - Noble gas ✓ Correct!\nOption D (Chlorine): Group 17 - Halogen ✗\n\nThe correct answer is C) Argon.",
+    "exp": "Argon is a noble gas in Group 18.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall noble gases (Group 18)\n• Helium (He), Neon (Ne), Argon (Ar), Krypton (Kr), Xenon (Xe), Radon (Rn)\n\nStep 2: Understand noble gas properties\n• Full outer electron shell\n• Unreactive/inert\n\nStep 3: Classify options\n• Option A (Oxygen): Group 16, reactive ✗\n• Option B (Nitrogen): Group 15, reactive ✗\n• Option C (Argon): Group 18, noble gas ✓ Correct!\n• Option D (Chlorine): Group 17, halogen, reactive ✗\n\nThe correct answer is C) Argon.",
     "img": "",
     "passage": ""
   },
@@ -66,8 +66,8 @@
     "a3": "O₂",
     "a4": "NaCl",
     "ans": 2,
-    "exp": "Water consists of two hydrogen atoms and one oxygen atom: H₂O.",
-    "ai_exp": "Chemical Formula Analysis:\n\n• CO₂ = Carbon dioxide (1 carbon + 2 oxygen) ✗\n• H₂O = Water (2 hydrogen + 1 oxygen) ✓\n• O₂ = Oxygen gas (2 oxygen atoms) ✗\n• NaCl = Sodium chloride (salt) ✗\n\nWater formula:\n• H₂O = 2 hydrogen atoms + 1 oxygen atom\n\nOption A: Carbon dioxide ✗\nOption B: Water ✓ Correct!\nOption C: Oxygen gas ✗\nOption D: Table salt ✗\n\nThe correct answer is B) H₂O.",
+    "exp": "Water is H₂O - two hydrogen atoms and one oxygen atom.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall water's composition\n• 2 Hydrogen atoms + 1 Oxygen atom\n• Chemical formula: H₂O\n\nStep 2: Analyze each option\n• CO₂: Carbon dioxide (1 C + 2 O) ✗\n• H₂O: Water (2 H + 1 O) ✓\n• O₂: Oxygen gas (2 O atoms) ✗\n• NaCl: Sodium chloride/salt ✗\n\nStep 3: Verify\n• H₂O has: 2 hydrogen + 1 oxygen = water ✓\n\nOption A: Carbon dioxide ✗\nOption B: Water ✓ Correct!\nOption C: Oxygen gas ✗\nOption D: Salt ✗\n\nThe correct answer is B) H₂O.",
     "img": "",
     "passage": ""
   },
@@ -78,8 +78,8 @@
     "a3": "Metallic bond",
     "a4": "Hydrogen bond",
     "ans": 2,
-    "exp": "Covalent bonds form when atoms share electron pairs.",
-    "ai_exp": "Chemical Bond Analysis:\n\n• Ionic bond: Transfer of electrons (metal + non-metal) ✗\n• Covalent bond: SHARING of electrons (non-metal + non-metal) ✓\n• Metallic bond: Sea of delocalized electrons ✗\n• Hydrogen bond: Weak intermolecular force ✗\n\nCovalent bond examples:\n• H₂O, CO₂, CH₄\n\nOption A: Electron transfer ✗\nOption B: Electron sharing ✓ Correct!\nOption C: Electron sea ✗\nOption D: Weak attraction ✗\n\nThe correct answer is B) Covalent bond.",
+    "exp": "Covalent bonds form when atoms share electrons.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall bond types\n• Ionic: TRANSFER of electrons (metal + non-metal)\n• Covalent: SHARING of electrons (non-metal + non-metal)\n• Metallic: Sea of delocalized electrons\n• Hydrogen: Weak intermolecular attraction\n\nStep 2: Match the description\n• \"Sharing of electrons\" = Covalent bond\n\nStep 3: Examples\n• Covalent: H₂O, CO₂, CH₄, O₂\n• Ionic: NaCl, MgO\n\nOption A: Electron transfer ✗\nOption B: Electron sharing ✓ Correct!\nOption C: Electron sea ✗\nOption D: Weak force ✗\n\nThe correct answer is B) Covalent bond.",
     "img": "",
     "passage": ""
   },
@@ -90,8 +90,8 @@
     "a3": "8 g/mol",
     "a4": "64 g/mol",
     "ans": 2,
-    "exp": "O₂ has two oxygen atoms (16 × 2 = 32 g/mol).",
-    "ai_exp": "Molar Mass Calculation:\n\n• Atomic mass of O = 16 g/mol\n• O₂ = 2 oxygen atoms\n• Molar mass of O₂ = 2 × 16 = 32 g/mol\n\nOption A (16): Mass of ONE oxygen atom ✗\nOption B (32): 2 × 16 = 32 ✓ Correct!\nOption C (8): Half of oxygen atom ✗\nOption D (64): 4 oxygen atoms ✗\n\nThe correct answer is B) 32 g/mol.",
+    "exp": "O₂ = 2 × 16 = 32 g/mol.",
+    "ai_exp": "Step-by-Step Calculation:\n\nStep 1: Recall atomic mass of oxygen\n• Oxygen (O) = 16 g/mol\n\nStep 2: Identify O₂ structure\n• O₂ = 2 oxygen atoms bonded together\n\nStep 3: Calculate molar mass\n• Molar mass = 2 × 16 = 32 g/mol\n\nStep 4: Analyze options\n• Option A (16): One oxygen atom only ✗\n• Option B (32): 2 × 16 = 32 ✓ Correct!\n• Option C (8): Half an atom ✗\n• Option D (64): 4 oxygen atoms ✗\n\nThe correct answer is B) 32 g/mol.",
     "img": "",
     "passage": ""
   },
@@ -103,7 +103,7 @@
     "a4": "Universal indicator",
     "ans": 3,
     "exp": "Methyl orange turns red in acidic solutions.",
-    "ai_exp": "Indicator Color Analysis:\n\n• Litmus: Red in acid, Blue in base ✗\n• Phenolphthalein: Colorless in acid, Pink in base ✗\n• Methyl orange: RED in acid, Yellow in base ✓\n• Universal: Multiple colors ✗\n\nMethyl orange specifically turns RED in acid.\n\nOption A: Also red in acid, but the specific one asked ✓ (but methyl orange is the classic answer)\nOption B: Colorless in acid ✗\nOption C: Red in acid ✓ Correct!\nOption D: Shows different colors ✗\n\nThe correct answer is C) Methyl orange.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall indicator colors in acid\n• Litmus: RED in acid, blue in base\n• Phenolphthalein: COLORLESS in acid, pink in base\n• Methyl orange: RED in acid, yellow in base\n• Universal: Multiple colors (red/orange/yellow/green/blue/purple)\n\nStep 2: Identify the specific indicator\n• Question asks for one that turns RED in acid\n• Methyl orange specifically turns red\n\nStep 3: Analyze options\n• Option A (Litmus): Also red, but methyl orange is the classic answer for this exact question\n• Option B: Colorless in acid ✗\n• Option C (Methyl orange): Red in acid ✓ Correct!\n• Option D: Multiple colors ✗\n\nThe correct answer is C) Methyl orange.",
     "img": "",
     "passage": ""
   },
@@ -114,8 +114,8 @@
     "a3": "Na",
     "a4": "K",
     "ans": 3,
-    "exp": "Sodium's chemical symbol is Na, from the Latin 'Natrium'.",
-    "ai_exp": "Chemical Symbol Analysis:\n\n• S = Sulfur ✗\n• So = Invalid symbol ✗\n• Na = Sodium (from Latin 'Natrium') ✓\n• K = Potassium (from Latin 'Kalium') ✗\n\nSodium → Na (Latin: Natrium)\n\nOption A: Sulfur ✗\nOption B: Invalid ✗\nOption C: Sodium ✓ Correct!\nOption D: Potassium ✗\n\nThe correct answer is C) Na.",
+    "exp": "Sodium's symbol is Na, from Latin 'Natrium'.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall element symbols and origins\n• Sodium = Na (from Latin 'Natrium')\n• Sulfur = S\n• Potassium = K (from Latin 'Kalium')\n\nStep 2: Analyze options\n• Option A (S): Sulfur, not sodium ✗\n• Option B (So): Not a valid symbol ✗\n• Option C (Na): Sodium (Natrium) ✓ Correct!\n• Option D (K): Potassium (Kalium) ✗\n\nStep 3: Memory aid\n• Na in sodium comes from 'Natrium'\n• K in potassium comes from 'Kalium'\n\nThe correct answer is C) Na.",
     "img": "",
     "passage": ""
   }
