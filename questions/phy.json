@@ -6,8 +6,8 @@
     "a3": "Mass",
     "a4": "Acceleration",
     "ans": 3,
-    "exp": "Mass has only magnitude (no direction), making it a scalar quantity.",
-    "ai_exp": "Scalar vs Vector Analysis:\n\n• Scalar: Has only magnitude (size/amount)\n• Vector: Has both magnitude AND direction\n\nLet's classify each option:\n\nOption A (Velocity): Speed + direction = VECTOR ✗\nOption B (Force): Has magnitude + direction = VECTOR ✗\nOption C (Mass): Only magnitude, no direction = SCALAR ✓ Correct!\nOption D (Acceleration): Rate of change of velocity = VECTOR ✗\n\nVelocity, Force, and Acceleration all require direction.\nMass (e.g., 5 kg) has no direction.\n\nThe correct answer is C) Mass.",
+    "exp": "Mass has only magnitude, making it a scalar quantity.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Define scalar and vector quantities\n• Scalar: Has only magnitude (size/amount)\n• Vector: Has both magnitude AND direction\n\nStep 2: Classify each option\n• Velocity: Speed + direction = VECTOR ✗\n• Force: Magnitude + direction = VECTOR ✗\n• Mass: Only magnitude (e.g., 5 kg) = SCALAR ✓\n• Acceleration: Rate of change of velocity = VECTOR ✗\n\nStep 3: Verify\n• Scalars: mass, time, temperature, speed, distance, energy\n• Vectors: velocity, force, acceleration, displacement, momentum\n\nOption A (Velocity): Requires direction ✗\nOption B (Force): Requires direction ✗\nOption C (Mass): No direction ✓ Correct!\nOption D (Acceleration): Requires direction ✗\n\nThe correct answer is C) Mass.",
     "img": "",
     "passage": ""
   },
@@ -18,8 +18,8 @@
     "a3": "Ohm",
     "a4": "Watt",
     "ans": 2,
-    "exp": "The SI unit of electric current is the Ampere (A).",
-    "ai_exp": "SI Units Analysis:\n\n• Volt (V) = Unit of electric potential difference ✗\n• Ampere (A) = Unit of electric current ✓\n• Ohm (Ω) = Unit of electrical resistance ✗\n• Watt (W) = Unit of power ✗\n\nElectric current is the rate of flow of electric charge.\n\nOption A: Measures voltage, not current ✗\nOption B: Measures current ✓ Correct!\nOption C: Measures resistance ✗\nOption D: Measures power ✗\n\nThe correct answer is B) Ampere.",
+    "exp": "The SI unit of electric current is the Ampere.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Define electric current\n• Electric current = rate of flow of electric charge\n• Formula: I = Q/t\n\nStep 2: Recall SI units\n• Volt (V): Unit of potential difference/voltage\n• Ampere (A): Unit of electric current\n• Ohm (Ω): Unit of resistance\n• Watt (W): Unit of power\n\nStep 3: Match correctly\n• Current → Ampere\n\nOption A (Volt): Measures voltage ✗\nOption B (Ampere): Measures current ✓ Correct!\nOption C (Ohm): Measures resistance ✗\nOption D (Watt): Measures power ✗\n\nThe correct answer is B) Ampere.",
     "img": "",
     "passage": ""
   },
@@ -30,8 +30,8 @@
     "a3": "120 km/h",
     "a4": "240 km/h",
     "ans": 2,
-    "exp": "Average speed = Total distance / Total time = 120/2 = 60 km/h.",
-    "ai_exp": "Average Speed Calculation:\n\nFormula: Speed = Distance ÷ Time\n\nStep 1: Identify values\n• Distance = 120 km\n• Time = 2 hours\n\nStep 2: Apply formula\n• Speed = 120 ÷ 2\n• Speed = 60 km/h\n\nOption A (30 km/h): 120/4, wrong time ✗\nOption B (60 km/h): 120/2 = 60 ✓ Correct!\nOption C (120 km/h): Forgot to divide by time ✗\nOption D (240 km/h): Multiplied instead of dividing ✗\n\nThe correct answer is B) 60 km/h.",
+    "exp": "Average speed = 120/2 = 60 km/h.",
+    "ai_exp": "Step-by-Step Calculation:\n\nStep 1: Recall the formula\n• Average Speed = Total Distance ÷ Total Time\n\nStep 2: Identify given values\n• Distance = 120 km\n• Time = 2 hours\n\nStep 3: Apply the formula\n• Speed = 120 ÷ 2\n• Speed = 60 km/h\n\nStep 4: Analyze wrong options\n• Option A (30): 120 ÷ 4, used wrong time ✗\n• Option B (60): 120 ÷ 2 = 60 ✓ Correct!\n• Option C (120): Forgot to divide by time ✗\n• Option D (240): 120 × 2, multiplied instead ✗\n\nThe correct answer is B) 60 km/h.",
     "img": "",
     "passage": ""
   },
@@ -42,8 +42,8 @@
     "a3": "15.0 m/s²",
     "a4": "20.0 m/s²",
     "ans": 2,
-    "exp": "Acceleration due to gravity on Earth is approximately 9.8 m/s².",
-    "ai_exp": "Gravitational Acceleration Analysis:\n\n• Earth's gravity pulls objects toward its center\n• The standard value is g = 9.8 m/s²\n• This means velocity increases by 9.8 m/s every second\n\nOption A (5.0): Too low, closer to Mars ✗\nOption B (9.8): Standard Earth value ✓ Correct!\nOption C (15.0): Too high ✗\nOption D (20.0): Way too high ✗\n\nThe correct answer is B) 9.8 m/s².",
+    "exp": "Acceleration due to gravity on Earth is 9.8 m/s².",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Define gravitational acceleration\n• Denoted by 'g'\n• Pulls objects toward Earth's center\n• Velocity increases by 9.8 m/s every second\n\nStep 2: Recall standard values\n• Earth: g = 9.8 m/s² (standard value)\n• Moon: g = 1.6 m/s²\n• Mars: g = 3.7 m/s²\n\nStep 3: Analyze options\n• Option A (5.0): Closer to Moon/Mars ✗\n• Option B (9.8): Standard Earth value ✓ Correct!\n• Option C (15.0): Too high, doesn't exist ✗\n• Option D (20.0): Way too high ✗\n\nThe correct answer is B) 9.8 m/s².",
     "img": "",
     "passage": ""
   },
@@ -54,8 +54,8 @@
     "a3": "Newton's Third Law",
     "a4": "Law of Gravity",
     "ans": 3,
-    "exp": "Newton's Third Law states: For every action, there is an equal and opposite reaction.",
-    "ai_exp": "Newton's Laws Analysis:\n\n• First Law (Inertia): Objects stay at rest or in motion unless acted upon\n• Second Law: F = ma (Force = mass × acceleration)\n• Third Law: Action = Reaction (equal and opposite)\n• Law of Gravity: F = G(m₁m₂/r²)\n\nOption A: About inertia ✗\nOption B: About F = ma ✗\nOption C: About action-reaction pairs ✓ Correct!\nOption D: About gravitational force ✗\n\nThe correct answer is C) Newton's Third Law.",
+    "exp": "Newton's Third Law states action-reaction pairs.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Review Newton's Laws\n• First Law (Inertia): Objects remain at rest or in motion unless acted upon\n• Second Law: F = ma (Force equals mass times acceleration)\n• Third Law: Action = Reaction (equal and opposite)\n\nStep 2: Match the statement\n• \"For every action, there is an equal and opposite reaction\"\n• This is Newton's THIRD Law\n\nStep 3: Example\n• Rocket propulsion: Gas pushed down → Rocket pushed up\n\nOption A: Inertia ✗\nOption B: F = ma ✗\nOption C: Action-reaction ✓ Correct!\nOption D: Gravitational force ✗\n\nThe correct answer is C) Newton's Third Law.",
     "img": "",
     "passage": ""
   },
@@ -67,7 +67,7 @@
     "a4": "5.0 Hz",
     "ans": 3,
     "exp": "Frequency = 1/Period = 1/0.5 = 2 Hz.",
-    "ai_exp": "Frequency Calculation:\n\nFormula: f = 1/T\n• Where f = frequency (Hz)\n• T = period (seconds)\n\nStep 1: Identify period\n• T = 0.5 seconds\n\nStep 2: Apply formula\n• f = 1/0.5\n• f = 2 Hz\n\nOption A (0.5): Used period value directly ✗\nOption B (1.0): Incorrect calculation ✗\nOption C (2.0): 1/0.5 = 2 ✓ Correct!\nOption D (5.0): Incorrect ✗\n\nThe correct answer is C) 2.0 Hz.",
+    "ai_exp": "Step-by-Step Calculation:\n\nStep 1: Recall the relationship\n• Frequency (f) = 1 / Period (T)\n• Where f is in Hertz (Hz) and T is in seconds\n\nStep 2: Identify given value\n• Period (T) = 0.5 seconds\n\nStep 3: Apply formula\n• f = 1 / 0.5\n• f = 2 Hz\n\nStep 4: Analyze options\n• Option A (0.5): Used period as frequency ✗\n• Option B (1.0): 1/1, wrong ✗\n• Option C (2.0): 1/0.5 = 2 ✓ Correct!\n• Option D (5.0): Incorrect ✗\n\nThe correct answer is C) 2.0 Hz.",
     "img": "",
     "passage": ""
   },
@@ -79,7 +79,7 @@
     "a4": "Plastic",
     "ans": 3,
     "exp": "Copper is a metal and good conductor of electricity.",
-    "ai_exp": "Conductivity Analysis:\n\nGood conductors:\n• Metals (copper, silver, gold, aluminum)\n• Have free electrons\n\nPoor conductors (insulators):\n• Rubber, glass, plastic\n• Electrons tightly bound\n\nOption A (Rubber): Insulator ✗\nOption B (Glass): Insulator ✗\nOption C (Copper): Metal conductor ✓ Correct!\nOption D (Plastic): Insulator ✗\n\nThe correct answer is C) Copper.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall conductor properties\n• Good conductors: Have free electrons\n• Free electrons allow current flow\n\nStep 2: Classify materials\n• Metals (copper, silver, gold, aluminum): Conductors\n• Rubber, glass, plastic: Insulators (electrons tightly bound)\n\nStep 3: Analyze options\n• Option A (Rubber): Insulator ✗\n• Option B (Glass): Insulator ✗\n• Option C (Copper): Excellent conductor ✓ Correct!\n• Option D (Plastic): Insulator ✗\n\nCopper is used in electrical wiring due to its conductivity.\n\nThe correct answer is C) Copper.",
     "img": "",
     "passage": ""
   },
@@ -91,7 +91,7 @@
     "a4": "Nuclear energy",
     "ans": 2,
     "exp": "Kinetic energy is the energy of motion.",
-    "ai_exp": "Energy Types Analysis:\n\n• Potential energy = Stored energy due to position\n• Kinetic energy = Energy due to MOTION\n• Chemical energy = Stored in chemical bonds\n• Nuclear energy = Stored in atomic nucleus\n\nA moving body has kinetic energy.\nFormula: KE = ½mv²\n\nOption A: Stored energy, not motion ✗\nOption B: Energy of motion ✓ Correct!\nOption C: Energy in bonds ✗\nOption D: Energy in nucleus ✗\n\nThe correct answer is B) Kinetic energy.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Define energy types\n• Potential energy: Stored due to position (PE = mgh)\n• Kinetic energy: Due to MOTION (KE = ½mv²)\n• Chemical energy: Stored in chemical bonds\n• Nuclear energy: Stored in atomic nucleus\n\nStep 2: Match the description\n• \"Energy due to motion\" = Kinetic energy\n\nStep 3: Examples\n• Moving car = kinetic\n• Ball on a hill = potential\n\nOption A: Position energy ✗\nOption B: Motion energy ✓ Correct!\nOption C: Bond energy ✗\nOption D: Nuclear energy ✗\n\nThe correct answer is B) Kinetic energy.",
     "img": "",
     "passage": ""
   },
@@ -103,7 +103,7 @@
     "a4": "500 W",
     "ans": 2,
     "exp": "Power = Energy/Time = 500/10 = 50 W.",
-    "ai_exp": "Power Calculation:\n\nFormula: P = E/t\n• P = Power (Watts)\n• E = Energy (Joules)\n• t = Time (seconds)\n\nStep 1: Identify values\n• E = 500 J\n• t = 10 s\n\nStep 2: Apply formula\n• P = 500/10\n• P = 50 W\n\nOption A (25): 500/20, wrong time ✗\nOption B (50): 500/10 = 50 ✓ Correct!\nOption C (100): 500/5, wrong ✗\nOption D (500): Forgot to divide ✗\n\nThe correct answer is B) 50 W.",
+    "ai_exp": "Step-by-Step Calculation:\n\nStep 1: Recall power formula\n• Power (P) = Energy (E) ÷ Time (t)\n• Unit: Watts (W) = Joules/second\n\nStep 2: Identify values\n• E = 500 J\n• t = 10 s\n\nStep 3: Apply formula\n• P = 500 ÷ 10\n• P = 50 W\n\nStep 4: Analyze options\n• Option A (25): 500 ÷ 20, wrong time ✗\n• Option B (50): 500 ÷ 10 = 50 ✓ Correct!\n• Option C (100): 500 ÷ 5 ✗\n• Option D (500): Forgot to divide ✗\n\nThe correct answer is B) 50 W.",
     "img": "",
     "passage": ""
   },
@@ -114,8 +114,8 @@
     "a3": "X-rays",
     "a4": "Gamma rays",
     "ans": 4,
-    "exp": "Gamma rays have the shortest wavelength and highest frequency in the EM spectrum.",
-    "ai_exp": "Electromagnetic Spectrum Order (longest to shortest wavelength):\n\nRadio → Microwave → Infrared → Visible → UV → X-ray → Gamma\n\nGamma rays:\n• Shortest wavelength\n• Highest frequency\n• Highest energy\n\nOption A (Radio): Longest wavelength ✗\nOption B (Visible): Middle of spectrum ✗\nOption C (X-rays): Short, but not shortest ✗\nOption D (Gamma rays): Shortest ✓ Correct!\n\nThe correct answer is D) Gamma rays.",
+    "exp": "Gamma rays have the shortest wavelength in the EM spectrum.",
+    "ai_exp": "Step-by-Step Analysis:\n\nStep 1: Recall the EM spectrum order (longest to shortest wavelength):\nRadio → Microwave → Infrared → Visible → UV → X-ray → Gamma\n\nStep 2: Note the relationship\n• Shorter wavelength = Higher frequency = Higher energy\n\nStep 3: Identify shortest\n• Gamma rays are at the far end with SHORTEST wavelength\n\nStep 4: Analyze options\n• Option A (Radio): Longest wavelength ✗\n• Option B (Visible): Middle ✗\n• Option C (X-ray): Short, but not shortest ✗\n• Option D (Gamma): Shortest ✓ Correct!\n\nThe correct answer is D) Gamma rays.",
     "img": "",
     "passage": ""
   }
